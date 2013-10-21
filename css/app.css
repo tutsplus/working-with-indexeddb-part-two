@@ -1,0 +1,11 @@
+body {
+  padding-top: 70px;
+}
+
+.notetitle {
+    cursor:pointer;
+}
+
+#noteForm {
+	display: none;
+}
